@@ -19,3 +19,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+models/DenseNet121.h5
+models/VGG16 Model.h5
+models/VGG19-eye_disease-94.31.h5
+models/cnnkeras.h5
+models/final_model.h5
+Diplom_last/
